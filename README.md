@@ -39,5 +39,4 @@ This project is a custom HashMap implementation written in C++. It stores and ma
 Through this project, I learned how hash tables work behind the scenes. I practiced handling collisions, resizing a data structure, managing memory safely, and testing edge cases. This project also helped me become more comfortable with debugging C++ code and writing tests to confirm that each required feature worked correctly.
 
 ## Screencapture Demo
-
-[Watch my HashMap project demo](https://drive.google.com/file/d/1UYvYmgBKuRMg86Z_9TNep0aOkAZizQ1y/view?usp=sharing)
+(https://drive.google.com/file/d/1UYvYmgBKuRMg86Z_9TNep0aOkAZizQ1y/view?usp=sharing)
